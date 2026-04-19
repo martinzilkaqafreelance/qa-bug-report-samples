@@ -1,6 +1,8 @@
 # QA Bug Report Samples (Exploratory Testing – SaaS Applications)
 
-This repository contains structured examples of manual exploratory bug reports created during testing of modern SaaS web applications.
+Real SaaS bug reports based on exploratory testing of live applications.
+
+Focus: workflows, data consistency, cross-session behavior, UX issues.
 
 ## Example Bug Reports
 
